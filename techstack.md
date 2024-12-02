@@ -1,5 +1,38 @@
 # **Tech Stack for Champion Manager Idle Bot**
 
+## **Contents**
+
+- [**Tech Stack for Champion Manager Idle Bot**](#tech-stack-for-champion-manager-idle-bot)
+  - [**Contents**](#contents)
+  - [**1. Backend Language and Frameworks**](#1-backend-language-and-frameworks)
+    - [**Primary Language**](#primary-language)
+    - [**Framework**](#framework)
+  - [**2. Discord Library**](#2-discord-library)
+    - [**Discord.Net**](#discordnet)
+  - [**3. Data Management**](#3-data-management)
+    - [**Database**](#database)
+  - [**4. Real-time Processing \& Scheduling**](#4-real-time-processing--scheduling)
+    - [**Task Scheduling**](#task-scheduling)
+  - [**5. Game State Management**](#5-game-state-management)
+    - [**In-Memory Cache with Redis**](#in-memory-cache-with-redis)
+  - [**6. Champion Data and Balancing Approach**](#6-champion-data-and-balancing-approach)
+    - [**Custom Champion Values**](#custom-champion-values)
+  - [**7. User Interface**](#7-user-interface)
+    - [**Web Interface**](#web-interface)
+  - [**8. Deployment and Containerization**](#8-deployment-and-containerization)
+    - [**Docker**](#docker)
+  - [**9. Future Cloud Deployment (Optional)**](#9-future-cloud-deployment-optional)
+    - [**Cloud Options**](#cloud-options)
+  - [**Next Steps for Implementation**](#next-steps-for-implementation)
+    - [**1. Initial Setup**](#1-initial-setup)
+    - [**2. Core Features**](#2-core-features)
+    - [**3. Champion and Combat System**](#3-champion-and-combat-system)
+    - [**4. Progressive Features**](#4-progressive-features)
+    - [**5. User Interface**](#5-user-interface)
+    - [**6. Deployment**](#6-deployment)
+
+---
+
 ## **1. Backend Language and Frameworks**
 
 ### **Primary Language**
