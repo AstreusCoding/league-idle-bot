@@ -1,5 +1,30 @@
 # **Champion Manager Idle Bot Concept**
 
+## **Table of Contents**
+
+- [**Champion Manager Idle Bot Concept**](#champion-manager-idle-bot-concept)
+  - [**Table of Contents**](#table-of-contents)
+  - [**1. Core Gameplay Loop**](#1-core-gameplay-loop)
+  - [**2. Currency System**](#2-currency-system)
+  - [**3. Items and Crafting**](#3-items-and-crafting)
+  - [**4. Champion Combat and Spells**](#4-champion-combat-and-spells)
+  - [**5. Progression System**](#5-progression-system)
+  - [**6. Balancing Risk and Reward**](#6-balancing-risk-and-reward)
+  - [**7. Future Features**](#7-future-features)
+    - [**Champion Roster Expansion**](#champion-roster-expansion)
+    - [**Team Battles**](#team-battles)
+    - [**Guild System**](#guild-system)
+      - [Overview](#overview)
+      - [Roles](#roles)
+      - [Levels and rewards](#levels-and-rewards)
+      - [Quests](#quests)
+        - [Contribution System](#contribution-system)
+        - [Types of Guild Quests](#types-of-guild-quests)
+      - [Guild Currency](#guild-currency)
+      - [Guild Chat and Coordination](#guild-chat-and-coordination)
+        - [Chat](#chat)
+        - [Coordination Tools](#coordination-tools)
+
 ## **1. Core Gameplay Loop**
 
 - Players choose a starting champion, pulled from the same pool of starter champions available in the official League of Legends game.
@@ -62,10 +87,8 @@ Guilds can have roles such as Leader, Officer, and Member. Leaders and Officers 
 
 List of roles:
 
-- **Leader**: The guild leader, has all available permissions in the guild.
-
+- **Leader**: The guild leader, has all available permissions in the guild.
 - **Officer**: Has the ability to invite, kick members and manage guild activities.
-
 - **Member**: no special permissions
 
 #### Levels and rewards
@@ -83,10 +106,8 @@ Guild quests track each member's contributions, encouraging players to stay acti
 ##### Types of Guild Quests
 
 - **Daily Quests**: These are small tasks that refresh every day and can be completed by individual members. Completing daily quests earns rewards for the guild and helps members contribute to the guild's progress.
-
-- Weekly Quests: These are quests that refresh every week and require guild members to achieve collective goals, such as defeating a certain number of enemies or crafting specific items.
-
-- Monthly Quests: Larger-scale quests that require more significant contributions, like winning a certain number of guild battles or reaching a milestone in resource collection. Completing monthly quests provides rare rewards for the entire guild.
+- **Weekly Quests**: These are quests that refresh every week and require guild members to achieve collective goals, such as defeating a certain number of enemies or crafting specific items.
+- **Monthly Quests**: Larger-scale quests that require more significant contributions, like winning a certain number of guild battles or reaching a milestone in resource collection. Completing monthly quests provides rare rewards for the entire guild.
 
 #### Guild Currency
 
@@ -101,3 +122,4 @@ Adding a dedicated guild chat inside the Discord bot allows guild members to com
 ##### Coordination Tools
 
 Guild chat can be enhanced with coordination tools, such as reminders for upcoming guild battles, and the ability to create polls for deciding on strategies or participation in events. These tools help members stay informed and engaged in guild activities.
+
