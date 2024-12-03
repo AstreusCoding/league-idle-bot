@@ -1,5 +1,31 @@
 # **Champion Manager Idle Bot Concept**
 
+## **Table of Contents**
+
+- [**Champion Manager Idle Bot Concept**](#champion-manager-idle-bot-concept)
+  - [**Table of Contents**](#table-of-contents)
+  - [**1. Core Gameplay Loop**](#1-core-gameplay-loop)
+  - [**2. Currency System**](#2-currency-system)
+  - [**3. Items and Crafting**](#3-items-and-crafting)
+  - [**4. Champion Combat and Spells**](#4-champion-combat-and-spells)
+  - [**5. Progression System**](#5-progression-system)
+  - [**6. Balancing Risk and Reward**](#6-balancing-risk-and-reward)
+  - [**7. Future Features**](#7-future-features)
+    - [**Champion Roster Expansion**](#champion-roster-expansion)
+    - [**Team Battles**](#team-battles)
+    - [**Guild System**](#guild-system)
+      - [Overview](#overview)
+      - [Roles](#roles)
+      - [Levels and rewards](#levels-and-rewards)
+      - [Quests](#quests)
+        - [Contribution System](#contribution-system)
+        - [Types of Guild Quests](#types-of-guild-quests)
+      - [Guild Currency](#guild-currency)
+      - [Guild Battles](#guild-battles)
+      - [Guild Chat and Coordination](#guild-chat-and-coordination)
+        - [Chat](#chat)
+        - [Coordination Tools](#coordination-tools)
+
 ## **1. Core Gameplay Loop**
 
 - Players choose a starting champion, pulled from the same pool of starter champions available in the official League of Legends game.
@@ -112,7 +138,7 @@ Guilds can earn a separate currency, Guild Tokens, which can be used to purchase
 
 - **Guild Battles**: Guilds can initiate battles against each other in 5v5 matches. Here’s an example: Guild "Rose" challenges Guild "Dose" to a battle. Guild members from both sides can participate, and a 5v5 battle is initiated. When a player from Guild Rose initiates a fight, the opponent from Guild Dose has 10 minutes to either accept a live match or default to an automated roster battle.
 
-   **Live Match**: If the opponent chooses a live match, the battle is conducted like a normal ranked draft, where both players are online.
+**Live Match**: If the opponent chooses a live match, the battle is conducted like a normal ranked draft, where both players are online.
 
 - **Default Roster Battle**: If the opponent doesn’t respond or chooses the automated option, their default roster is used. In this case, the enemys champion lanes are hidden from the attacker, adding an element of unpredictability.
 
